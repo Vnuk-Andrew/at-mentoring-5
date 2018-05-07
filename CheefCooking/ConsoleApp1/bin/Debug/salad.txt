@@ -1,0 +1,3 @@
+Carrot Weight: 1300 Total calories: 348,4 Total proteins: 16,9 Total carbs: 89,7 Total fats: 1,3
+Tomatoe Weight: 2000 Total calories: 346 Total proteins: 22 Total carbs: 74 Total fats: 4
+Cucumber Weight: 3000 Total calories: 132 Total proteins: 24 Total carbs: 3 Total fats: 3

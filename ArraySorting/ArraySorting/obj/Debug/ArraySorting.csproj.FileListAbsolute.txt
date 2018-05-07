@@ -1,0 +1,7 @@
+C:\mentoring\ArraySorting\ArraySorting\bin\Debug\ArraySorting.exe.config
+C:\mentoring\ArraySorting\ArraySorting\bin\Debug\ArraySorting.exe
+C:\mentoring\ArraySorting\ArraySorting\bin\Debug\ArraySorting.pdb
+C:\mentoring\ArraySorting\ArraySorting\obj\Debug\ArraySorting.csprojResolveAssemblyReference.cache
+C:\mentoring\ArraySorting\ArraySorting\obj\Debug\ArraySorting.csproj.CoreCompileInputs.cache
+C:\mentoring\ArraySorting\ArraySorting\obj\Debug\ArraySorting.exe
+C:\mentoring\ArraySorting\ArraySorting\obj\Debug\ArraySorting.pdb

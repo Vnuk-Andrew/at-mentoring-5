@@ -1,0 +1,12 @@
+C:\Users\Andrei\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Andrei\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Andrei\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Andrei\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\CheefCooking.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Andrei\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\mentoring\CheefCooking\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\mentoring\CheefCooking\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\mentoring\CheefCooking\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\mentoring\CheefCooking\ConsoleApp1\obj\Debug\CheefCooking.csproj.CoreCompileInputs.cache
+C:\mentoring\CheefCooking\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\mentoring\CheefCooking\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

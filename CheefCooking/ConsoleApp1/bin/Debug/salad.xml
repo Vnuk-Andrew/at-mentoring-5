@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Salad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <currentSaladIngredients>
+    <Food xsi:type="Carrot">
+      <productName>Carrot</productName>
+      <productWeight>1300</productWeight>
+    </Food>
+    <Food xsi:type="Tomatoe">
+      <productName>Tomatoe</productName>
+      <productWeight>2000</productWeight>
+    </Food>
+    <Food xsi:type="Cucumber">
+      <productName>Cucumber</productName>
+      <productWeight>3000</productWeight>
+    </Food>
+  </currentSaladIngredients>
+</Salad>
